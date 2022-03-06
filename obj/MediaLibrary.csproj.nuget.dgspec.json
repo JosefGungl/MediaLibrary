@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj": {}
+    "E:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj": {}
   },
   "projects": {
-    "e:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj": {
+    "E:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj",
+        "projectUniqueName": "E:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj",
         "projectName": "MediaLibrary",
-        "projectPath": "e:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj",
+        "projectPath": "E:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj",
         "packagesPath": "C:\\Users\\josef\\.nuget\\packages\\",
-        "outputPath": "e:\\VSC\\c++\\repos\\MediaLibrary\\obj\\",
+        "outputPath": "E:\\VSC\\c++\\repos\\MediaLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josef\\AppData\\Roaming\\NuGet\\NuGet.Config"

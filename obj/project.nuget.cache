@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R1rxkWp4A/4htfCBHHvtco18Re/F/oFmt1gKkKessDx2hEZbRKF5oiJO1SHUiyzhPmIz/NDYjZE3XBPCsqURsw==",
+  "dgSpecHash": "7yhipnNBnqfv9YnNVvhzM9FmdFAKSChDeOJlZMdQ9Nt9rulsyhZMJjP65rHPTYRckHHKJSIrIpbbdb6QG+ePQw==",
   "success": true,
-  "projectFilePath": "e:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj",
+  "projectFilePath": "E:\\VSC\\c++\\repos\\MediaLibrary\\MediaLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josef\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\josef\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
