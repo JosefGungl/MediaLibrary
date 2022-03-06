@@ -4,3 +4,21 @@
 2022-03-05 20:00:25.4811|INFO|MediaLibrary.Program|movies.scrubbed.csv
 2022-03-05 20:00:25.5065|INFO|MediaLibrary.MovieFile|Movies in file 9125
 2022-03-05 20:00:25.5065|INFO|MediaLibrary.Program|Program ended
+2022-03-05 20:15:20.7268|INFO|MediaLibrary.Program|Program started
+2022-03-05 20:15:20.7587|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-05 20:15:20.7587|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-05 20:15:20.7862|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2022-03-05 20:15:28.0120|INFO|MediaLibrary.Program|User choice: "1"
+2022-03-05 20:15:51.8000|INFO|MediaLibrary.MovieFile|Media id 164980 added
+2022-03-05 20:15:57.4018|INFO|MediaLibrary.Program|User choice: "2"
+2022-03-05 20:16:09.4781|INFO|MediaLibrary.Program|User choice: ""
+2022-03-05 20:16:09.4781|INFO|MediaLibrary.Program|Program ended
+2022-03-05 20:16:31.5752|INFO|MediaLibrary.Program|Program started
+2022-03-05 20:16:31.6071|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-05 20:16:31.6071|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-05 20:16:31.6348|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2022-03-05 20:16:34.3398|INFO|MediaLibrary.Program|User choice: "1"
+2022-03-05 20:17:05.4375|INFO|MediaLibrary.MovieFile|Media id 164980 added
+2022-03-05 20:17:09.6818|INFO|MediaLibrary.Program|User choice: "2"
+2022-03-05 20:17:23.7990|INFO|MediaLibrary.Program|User choice: ""
+2022-03-05 20:17:23.7995|INFO|MediaLibrary.Program|Program ended
