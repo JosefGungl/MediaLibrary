@@ -22,3 +22,49 @@
 2022-03-05 20:17:09.6818|INFO|MediaLibrary.Program|User choice: "2"
 2022-03-05 20:17:23.7990|INFO|MediaLibrary.Program|User choice: ""
 2022-03-05 20:17:23.7995|INFO|MediaLibrary.Program|Program ended
+2022-03-22 22:24:45.6942|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:24:45.7419|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:24:45.7419|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:24:45.7677|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:24:51.9691|INFO|MediaLibrary.Program|User choice: "3"
+2022-03-22 22:25:13.4369|INFO|MediaLibrary.Program|User choice: ""
+2022-03-22 22:25:13.4369|INFO|MediaLibrary.Program|Program ended
+2022-03-22 22:25:19.8606|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:25:19.8920|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:25:19.8920|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:25:19.9167|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:25:20.7610|INFO|MediaLibrary.Program|User choice: "1"
+2022-03-22 22:26:35.4096|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:26:35.4419|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:26:35.4419|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:26:35.4677|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:26:52.8167|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:26:52.8481|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:26:52.8481|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:26:52.8731|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:26:56.7507|INFO|MediaLibrary.Program|Program ended
+2022-03-22 22:34:08.3286|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:34:08.3634|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:34:08.3634|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:34:08.3893|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:34:47.3437|INFO|MediaLibrary.Program|Program ended
+2022-03-22 22:39:35.4881|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:39:35.5212|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:39:35.5212|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:39:35.5475|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:39:48.2550|INFO|MediaLibrary.Program|Program ended
+2022-03-22 22:39:57.6808|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:39:57.7144|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:39:57.7144|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:39:57.7405|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:41:14.5414|INFO|MediaLibrary.Program|Program ended
+2022-03-22 22:41:33.5027|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:41:33.5363|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:41:33.5363|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:41:33.5620|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:41:46.9176|INFO|MediaLibrary.Program|Program ended
+2022-03-22 22:42:28.8882|INFO|MediaLibrary.Program|Program started
+2022-03-22 22:42:28.9238|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2022-03-22 22:42:28.9244|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2022-03-22 22:42:28.9522|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2022-03-22 22:42:55.7534|INFO|MediaLibrary.Program|Program ended
